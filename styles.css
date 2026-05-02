@@ -167,7 +167,7 @@ hr{
 }
 
 .works li :hover {
-  transform: scale(1.5);
+  transform: scale(0.70);
 }
 
 .contactContainer {
